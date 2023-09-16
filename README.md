@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   🚀 Here are some of the technologies I work with:
-  <ul>
+  <ul align="center">
     <li>&lt; JAVA /&gt;</li>
     <li>&lt; C/C++ /&gt;</li>
     <li>&lt; VB.NET /&gt;</li>
