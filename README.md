@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a passionate developer interested in Machine Learning And Artificial Intelligence https://i.pinimg.com/originals/b5/83/19/b583195d957a3779c216f0cd684ec6ca.gif
-.
+  Welcome to my GitHub profile! I'm a passionate developer interested in Machine Learning And Artificial Intelligence <img src="https://i.pinimg.com/originals/b5/83/19/b583195d957a3779c216f0cd684ec6ca.gif" alt="gif" width="200"/>.
 </p>
 
 <p align="center">
