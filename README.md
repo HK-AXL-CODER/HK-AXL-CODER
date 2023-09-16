@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   🚀 Here are some of the technologies I work with:
+</p>
   <ul align="center">
     <li>&lt; JAVA /&gt;</li>
     <li>&lt; C/C++ /&gt;</li>
@@ -42,7 +43,6 @@ Here are some ideas to get you started:
     <li>&lt; FIGMA /&gt;</li>
     <li></li>
   </ul>
-</p>
 
 <p align="center">
   <img src="https://github.com/Humanevice50/Humanevice50/blob/main/assets/tech-stack.png" alt="Tech Stack" width="600"/>
