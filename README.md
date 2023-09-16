@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   🚀 Here are some of the technologies I work with:
 </p>
   <ul align="center">
-    <li list-style-type=none;align="center">&lt; JAVA   /&gt;</li>
+    <li align="center">&lt; JAVA   /&gt;</li>
     <li align="center">&lt; C/C++  /&gt;</li>
     <li align="center">&lt; VB.NET /&gt;</li>
     <li align="center">&lt; MYSQL  /&gt;</li>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  📘 Read my latest blog posts on [Your Blog](https://your-blog-url.com).
+  📘 Read my latest blog posts on (https://).
 </p>
 
 <p align="center">
