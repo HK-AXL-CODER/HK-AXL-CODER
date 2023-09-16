@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <h1 align="center">HK-AXL-CODER 🧑‍💻</h1>
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/Humanevice50/Humanevice50/blob/main/assets/profile-pic.png" alt="Profile Picture" width="200"/>
-</p>
+</p>-->
 
 <p align="center">
   Welcome to my GitHub profile! I'm a passionate developer interested in Machine Learning And Artificial Intelligence.
