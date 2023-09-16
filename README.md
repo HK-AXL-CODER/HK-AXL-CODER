@@ -35,14 +35,8 @@ Here are some ideas to get you started:
 <p align="center">
   🚀 Here are some of the technologies I work with:
 </p>
-<style>
-ul li{
-list-style-type=none
-}
-
-<style/>
   <ul align="center">
-    <li align="center">&lt; JAVA   /&gt;</li>
+    <li list-style-type=none;align="center">&lt; JAVA   /&gt;</li>
     <li align="center">&lt; C/C++  /&gt;</li>
     <li align="center">&lt; VB.NET /&gt;</li>
     <li align="center">&lt; MYSQL  /&gt;</li>
