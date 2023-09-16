@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  📘 Read my latest blog posts on (https://).
+  📘 Read my latest blog posts on (https://gideon.love-to-blog).
 </p>
 
 <p align="center">
