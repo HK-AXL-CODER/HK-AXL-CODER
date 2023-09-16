@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1 align="center">HK-AXL-CODER 👨‍💻</h1>
-
 <p align="center">
   <img src="https://github.com/Humanevice50/Humanevice50/blob/main/assets/profile-pic.png" alt="Profile Picture" width="200"/>
 </p>
