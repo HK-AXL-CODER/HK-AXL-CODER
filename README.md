@@ -34,11 +34,14 @@ Here are some ideas to get you started:
 
 <p align="center">
   🚀 Here are some of the technologies I work with:
-  &lt; JAVA /&gt;
-  &lt; C/C++ /&gt;
-  &lt; VB.NET /&gt;
-  &lt; MYSQL /&gt;
-  &lt; FIGMA /&gt;
+  <ul>
+    <li>&lt; JAVA /&gt;</li>
+    <li>&lt; C/C++ /&gt;</li>
+    <li>&lt; VB.NET /&gt;</li>
+    <li>&lt; MYSQL /&gt;</li>
+    <li>&lt; FIGMA /&gt;</li>
+    <li></li>
+  </ul>
 </p>
 
 <p align="center">
