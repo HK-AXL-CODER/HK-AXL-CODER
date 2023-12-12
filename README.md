@@ -36,7 +36,7 @@ Currently working as a Full Stack Developer, I specialize in creating robust and
 - [LinkedIn](https://www.linkedin.com/in/gideon-yebei-9285572a4)
 - [Twitter](https://twitter.com/GideonYebei)
 
-Feel free to explore my [portfolio](https://github.com/) for more projects and achievements.
+Feel free to explore my [portfolio](https://github.com/HK-AXL-CODER?tab=repositories) for more projects and achievements.
 
 Let's code something amazing together! 💻✨
 
