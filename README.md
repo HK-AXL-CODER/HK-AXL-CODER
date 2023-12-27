@@ -42,10 +42,6 @@ Feel free to explore my [portfolio](https://github.com/HK-AXL-CODER?tab=reposito
 Let's code something amazing together! 💻✨
 
 <p align="center">
-  📘 Read my latest blog posts on (https://gideon.love-to-blog).
-</p>
-
-<p align="center">
   📈 My GitHub stats:
 </p>
 
